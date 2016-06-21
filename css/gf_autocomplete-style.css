@@ -1,0 +1,19 @@
+#gf_atuocomplete_container {
+	border: solid 1px black;
+	padding: 5px;
+}
+
+#gf_atuocomplete_container ul,
+#gf_atuocomplete_container ul li {
+	margin:0px;
+	padding: 0px;
+}
+#gf_atuocomplete_container ul li {
+	cursor: pointer;
+}
+
+#field_css_class {
+	background: url('../assets/arrow-down.png') no-repeat center right 7px;
+	padding-right: 20px;
+	cursor: default;
+}
